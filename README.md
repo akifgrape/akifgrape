@@ -28,5 +28,3 @@ Founder/CEO at Eighred
 ---
 [![](https://visitcount.itsvg.in/api?id=akifgrape&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
