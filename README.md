@@ -18,10 +18,10 @@ Founder/CEO at Eighred
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akifgrape&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=akifgrape)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=akifgrape&theme=dark&hide_border=false)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akifgrape&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=akifgrape&label=Profile%20Views&color=12&icon=6&pretty=true)
