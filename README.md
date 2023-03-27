@@ -23,5 +23,4 @@ Founder/CEO at Eighred
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akifgrape&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=akifgrape&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
