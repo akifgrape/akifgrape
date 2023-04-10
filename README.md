@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-(https://github.com/akifgrape/akifgrape/blob/main/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+![](https://github.com/akifgrape/akifgrape/blob/main/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
 # 💫 About Me:
 Founder/CEO at Eighred
