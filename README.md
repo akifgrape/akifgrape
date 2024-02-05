@@ -6,9 +6,6 @@
 # 🌌 About Me:
 🔭 Founder/CEO at Eighred<br>
 
-<br>I'm here to help the world learn to code, do great things with data prowess, C++ lover
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/N68ZbJmwFz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akifgrape) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@eighred) 
 
