@@ -1,18 +1,19 @@
-## Hi there 👋, I’m Akif Grape. I’m from Earth 🌎
-
-![](https://github.com/akifgrape/akifgrape/blob/main/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
-
-
 # 🌌 About Me:
+
+Hello, I’m Akif Grape. I’m from Earth 🌎
+
 🔭 Founder/CEO at Eighred<br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akifgrape&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akifgrape&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akifgrape&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+My interests are nature, technology, science and software. I am always keen to learn new things.<br> If you have any questions or suggestions, please feel free to contact me via email
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+```bash
+ akifgrape@eighred.com
+```
 
----
-[![](https://visitcount.itsvg.in/api?id=akifgrape&icon=6&color=12)](https://visitcount.itsvg.in)
+Few Interesting pages:
+
+-   [Our artificial intelligence journey](https://akifgrape.github.io/blog/aijourney/)
+
+-   [Floating Astronauts in Space](https://akifgrape.github.io/blog/astronauts/)
+
+> The views expressed on this website ([https://akifgrape.github.io/](https://akifgrape.github.io/)) are mine alone<br> and are based on my own research.
