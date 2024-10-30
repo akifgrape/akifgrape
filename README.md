@@ -12,6 +12,8 @@ My interests are nature, jazz music, photography, technology, science and softwa
 
 Few Interesting pages:
 
--   [It's just an empty frame.](https://akifgrape.github.io/blog/first-blog/)
+-   [Our artificial intelligence journey](https://akifgrape.github.io/blog/aijourney/)
+
+-   [Floating Astronauts in Space](https://akifgrape.github.io/blog/astronauts/)
 
 > The views expressed on this website ([https://akifgrape.github.io/](https://akifgrape.github.io/)) are mine alone<br> and are based on my own research.
